@@ -23,7 +23,9 @@ Design and analysis of efficient algorithms with emphasis of nonnumerical algori
 
 ## Homework
 
-not upload to GitHub
+|       |Subject    |Requirement (PDF)    |Solution   |
+|:------|:----------|:------|:------|
+
 
 ## Slides
 
